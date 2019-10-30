@@ -1,1 +1,1 @@
-device_ofrp_jasmine_sprout
+This repo can be used to include prebuilt OrangeFox recovery into roms for Mi A2
